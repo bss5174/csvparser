@@ -4,7 +4,7 @@ This project parses through a CSV file and inserts records to a SQLite in-memory
 
 ### Instructions
 
-Maven will handle adding the necessary JAR files needed for this project. Due to the use of Stream, you will need Java 8 or later. Once the repository is cloned locally, you can compile and run.
+Maven will handle adding the necessary JAR files needed for this project. Due to the use of Java Streams, you will need Java 8 or later. Once the repository is cloned locally, you can compile and run.
 
 ### Approach to solving this challenge
 
